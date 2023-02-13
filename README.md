@@ -1,2 +1,3 @@
 # main-Repo
-My Name is Alex 
+My Name is Alekey
+I studied Software Engineering
